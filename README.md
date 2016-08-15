@@ -1,2 +1,2 @@
-# PuntoCoaching
+# Diseño Sitio de Otorrinolaringología 
 Desarrollo de Sitio Web , html5, css3, jquery, scss, sass, materialize, bootstrap, wordpress 
