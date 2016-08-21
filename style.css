@@ -362,7 +362,7 @@ body {
   overflow-x: hidden;
   margin: 0;
   color: #010002;
-  font-family: 'Lato', sans-serif; }
+  font-family: "Roboto", sans-serif; }
 
 a {
   text-decoration: none !important; }
@@ -405,24 +405,6 @@ change "brown" to something of your choosing
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg); }
 
-.blueBtn {
-  color: #002053; }
-
-.blueTitle {
-  color: #3d4b5f; }
-
-.blueBg {
-  color: #0d4196; }
-
-.orange1 {
-  color: #eb721c; }
-
-.grayLight {
-  color: #edf2f7; }
-
-.grayFont {
-  color: #b6b6b6; }
-
 /*
   Flaticon icon font: Flaticon
   Creation date: 24/05/2016 21:08
@@ -442,37 +424,118 @@ change "brown" to something of your choosing
   font-family: Flaticon;
   font-style: normal; }
 
-.flaticon-arrows:before {
+.flaticon-add-button-inside-black-circle:before {
   content: "\f100"; }
 
-.flaticon-arrowsright:before {
+.flaticon-arrows:before {
   content: "\f101"; }
 
-.flaticon-back:before {
+.flaticon-arrows-1:before {
   content: "\f102"; }
 
-.flaticon-gear:before {
+.flaticon-arrows-2:before {
   content: "\f103"; }
 
-.flaticon-mail:before {
+.flaticon-arrows-3:before {
   content: "\f104"; }
 
-.flaticon-menu-circular-button:before {
+.flaticon-avatar:before {
   content: "\f105"; }
 
-.flaticon-mouse:before {
+.flaticon-back:before {
   content: "\f106"; }
 
-.flaticon-next:before {
+.flaticon-bars:before {
   content: "\f107"; }
 
-.flaticon-rounded-add-button:before {
+.flaticon-business-presentation:before {
   content: "\f108"; }
 
-.flaticon-signs:before {
+.flaticon-check-box:before {
   content: "\f109"; }
 
-.flaticon-symbol:before {
+.flaticon-checked:before {
   content: "\f10a"; }
+
+.flaticon-checked-mark:before {
+  content: "\f10b"; }
+
+.flaticon-clock:before {
+  content: "\f10c"; }
+
+.flaticon-clock-circular-outline:before {
+  content: "\f10d"; }
+
+.flaticon-close-button:before {
+  content: "\f10e"; }
+
+.flaticon-commenting:before {
+  content: "\f10f"; }
+
+.flaticon-dialogue-balloon:before {
+  content: "\f110"; }
+
+.flaticon-envelope:before {
+  content: "\f111"; }
+
+.flaticon-flat:before {
+  content: "\f112"; }
+
+.flaticon-google-plus:before {
+  content: "\f113"; }
+
+.flaticon-linkedin:before {
+  content: "\f114"; }
+
+.flaticon-mouse:before {
+  content: "\f115"; }
+
+.flaticon-multiple-users-silhouette:before {
+  content: "\f116"; }
+
+.flaticon-next:before {
+  content: "\f117"; }
+
+.flaticon-note:before {
+  content: "\f118"; }
+
+.flaticon-patent:before {
+  content: "\f119"; }
+
+.flaticon-social:before {
+  content: "\f11a"; }
+
+.flaticon-social-1:before {
+  content: "\f11b"; }
+
+.flaticon-social-media:before {
+  content: "\f11c"; }
+
+.flaticon-time:before {
+  content: "\f11d"; }
+
+.flaticon-time-1:before {
+  content: "\f11e"; }
+
+.flaticon-tool:before {
+  content: "\f11f"; }
+
+.flaticon-tool-1:before {
+  content: "\f120"; }
+
+nav {
+  background: white;
+  height: 72px; }
+  nav .nav-wrapper > a {
+    width: 100px;
+    display: inline-block;
+    float: left; }
+    nav .nav-wrapper > a img {
+      width: 100%; }
+  nav .nav-wrapper > a:nth-child(2) {
+    width: 20%;
+    background: #00cccc;
+    float: right;
+    height: 72px; }
 
 /*# sourceMappingURL=style.css.map */

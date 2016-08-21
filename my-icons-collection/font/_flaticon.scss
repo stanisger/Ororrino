@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 17/06/2016 16:29
+    Creation date: 15/08/2016 20:16
     */
 
     @font-face {
@@ -36,68 +36,70 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-arrows:before { content: "\f100"; }
-.flaticon-arrows-1:before { content: "\f101"; }
-.flaticon-arrows-2:before { content: "\f102"; }
-.flaticon-arrows-3:before { content: "\f103"; }
-.flaticon-avatar:before { content: "\f104"; }
-.flaticon-back:before { content: "\f105"; }
-.flaticon-bars:before { content: "\f106"; }
-.flaticon-business-presentation:before { content: "\f107"; }
-.flaticon-check-box:before { content: "\f108"; }
-.flaticon-checked:before { content: "\f109"; }
-.flaticon-checked-mark:before { content: "\f10a"; }
-.flaticon-clock:before { content: "\f10b"; }
-.flaticon-clock-circular-outline:before { content: "\f10c"; }
-.flaticon-close-button:before { content: "\f10d"; }
-.flaticon-commenting:before { content: "\f10e"; }
-.flaticon-dialogue-balloon:before { content: "\f10f"; }
-.flaticon-envelope:before { content: "\f110"; }
-.flaticon-flat:before { content: "\f111"; }
-.flaticon-google-plus:before { content: "\f112"; }
-.flaticon-linkedin:before { content: "\f113"; }
-.flaticon-mouse:before { content: "\f114"; }
-.flaticon-multiple-users-silhouette:before { content: "\f115"; }
-.flaticon-next:before { content: "\f116"; }
-.flaticon-note:before { content: "\f117"; }
-.flaticon-patent:before { content: "\f118"; }
-.flaticon-social:before { content: "\f119"; }
-.flaticon-social-1:before { content: "\f11a"; }
-.flaticon-social-media:before { content: "\f11b"; }
-.flaticon-time:before { content: "\f11c"; }
-.flaticon-time-1:before { content: "\f11d"; }
-.flaticon-tool:before { content: "\f11e"; }
-.flaticon-tool-1:before { content: "\f11f"; }
+    .flaticon-add-button-inside-black-circle:before { content: "\f100"; }
+.flaticon-arrows:before { content: "\f101"; }
+.flaticon-arrows-1:before { content: "\f102"; }
+.flaticon-arrows-2:before { content: "\f103"; }
+.flaticon-arrows-3:before { content: "\f104"; }
+.flaticon-avatar:before { content: "\f105"; }
+.flaticon-back:before { content: "\f106"; }
+.flaticon-bars:before { content: "\f107"; }
+.flaticon-business-presentation:before { content: "\f108"; }
+.flaticon-check-box:before { content: "\f109"; }
+.flaticon-checked:before { content: "\f10a"; }
+.flaticon-checked-mark:before { content: "\f10b"; }
+.flaticon-clock:before { content: "\f10c"; }
+.flaticon-clock-circular-outline:before { content: "\f10d"; }
+.flaticon-close-button:before { content: "\f10e"; }
+.flaticon-commenting:before { content: "\f10f"; }
+.flaticon-dialogue-balloon:before { content: "\f110"; }
+.flaticon-envelope:before { content: "\f111"; }
+.flaticon-flat:before { content: "\f112"; }
+.flaticon-google-plus:before { content: "\f113"; }
+.flaticon-linkedin:before { content: "\f114"; }
+.flaticon-mouse:before { content: "\f115"; }
+.flaticon-multiple-users-silhouette:before { content: "\f116"; }
+.flaticon-next:before { content: "\f117"; }
+.flaticon-note:before { content: "\f118"; }
+.flaticon-patent:before { content: "\f119"; }
+.flaticon-social:before { content: "\f11a"; }
+.flaticon-social-1:before { content: "\f11b"; }
+.flaticon-social-media:before { content: "\f11c"; }
+.flaticon-time:before { content: "\f11d"; }
+.flaticon-time-1:before { content: "\f11e"; }
+.flaticon-tool:before { content: "\f11f"; }
+.flaticon-tool-1:before { content: "\f120"; }
     
-    $font-Flaticon-arrows: "\f100";
-    $font-Flaticon-arrows-1: "\f101";
-    $font-Flaticon-arrows-2: "\f102";
-    $font-Flaticon-arrows-3: "\f103";
-    $font-Flaticon-avatar: "\f104";
-    $font-Flaticon-back: "\f105";
-    $font-Flaticon-bars: "\f106";
-    $font-Flaticon-business-presentation: "\f107";
-    $font-Flaticon-check-box: "\f108";
-    $font-Flaticon-checked: "\f109";
-    $font-Flaticon-checked-mark: "\f10a";
-    $font-Flaticon-clock: "\f10b";
-    $font-Flaticon-clock-circular-outline: "\f10c";
-    $font-Flaticon-close-button: "\f10d";
-    $font-Flaticon-commenting: "\f10e";
-    $font-Flaticon-dialogue-balloon: "\f10f";
-    $font-Flaticon-envelope: "\f110";
-    $font-Flaticon-flat: "\f111";
-    $font-Flaticon-google-plus: "\f112";
-    $font-Flaticon-linkedin: "\f113";
-    $font-Flaticon-mouse: "\f114";
-    $font-Flaticon-multiple-users-silhouette: "\f115";
-    $font-Flaticon-next: "\f116";
-    $font-Flaticon-note: "\f117";
-    $font-Flaticon-patent: "\f118";
-    $font-Flaticon-social: "\f119";
-    $font-Flaticon-social-1: "\f11a";
-    $font-Flaticon-social-media: "\f11b";
-    $font-Flaticon-time: "\f11c";
-    $font-Flaticon-time-1: "\f11d";
-    $font-Flaticon-tool: "\f11e";
-    $font-Flaticon-tool-1: "\f11f";
+    $font-Flaticon-add-button-inside-black-circle: "\f100";
+    $font-Flaticon-arrows: "\f101";
+    $font-Flaticon-arrows-1: "\f102";
+    $font-Flaticon-arrows-2: "\f103";
+    $font-Flaticon-arrows-3: "\f104";
+    $font-Flaticon-avatar: "\f105";
+    $font-Flaticon-back: "\f106";
+    $font-Flaticon-bars: "\f107";
+    $font-Flaticon-business-presentation: "\f108";
+    $font-Flaticon-check-box: "\f109";
+    $font-Flaticon-checked: "\f10a";
+    $font-Flaticon-checked-mark: "\f10b";
+    $font-Flaticon-clock: "\f10c";
+    $font-Flaticon-clock-circular-outline: "\f10d";
+    $font-Flaticon-close-button: "\f10e";
+    $font-Flaticon-commenting: "\f10f";
+    $font-Flaticon-dialogue-balloon: "\f110";
+    $font-Flaticon-envelope: "\f111";
+    $font-Flaticon-flat: "\f112";
+    $font-Flaticon-google-plus: "\f113";
+    $font-Flaticon-linkedin: "\f114";
+    $font-Flaticon-mouse: "\f115";
+    $font-Flaticon-multiple-users-silhouette: "\f116";
+    $font-Flaticon-next: "\f117";
+    $font-Flaticon-note: "\f118";
+    $font-Flaticon-patent: "\f119";
+    $font-Flaticon-social: "\f11a";
+    $font-Flaticon-social-1: "\f11b";
+    $font-Flaticon-social-media: "\f11c";
+    $font-Flaticon-time: "\f11d";
+    $font-Flaticon-time-1: "\f11e";
+    $font-Flaticon-tool: "\f11f";
+    $font-Flaticon-tool-1: "\f120";

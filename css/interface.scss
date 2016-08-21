@@ -1,0 +1,20 @@
+nav{
+	background: white;
+	height: 72px;
+	.nav-wrapper{
+		>a{
+			 width: 100px;
+			 display: inline-block;
+			 float: left;
+			img{
+				width: 100%;
+			}	
+		}
+		>a:nth-child(2){
+			width: 20%;
+			background: $aquaBg;
+			float: right;
+            height: 72px;
+		}
+     }		
+}

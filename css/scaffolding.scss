@@ -19,7 +19,7 @@ body {
   overflow-x: hidden;
   margin: 0;
   color:#010002;
-  font-family: 'Lato', sans-serif;
+  font-family: $roboto;
 
 }
 a{
@@ -67,23 +67,6 @@ change "brown" to something of your choosing
     } 
 
 
-.blueBtn{
-  color: $blueBtn;
-}
-.blueTitle{
-  color: $blueTitle;
-}
-.blueBg{
-  color: $blueBg;
-}
-.orange1{
-  color: $orange1;
-}
-.grayLight{
-  color: $grayLight;
-}
-.grayFont{
-  color: $grayFont;
-}
+
 
 
