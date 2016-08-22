@@ -1,0 +1,33 @@
+.slider{
+	height: 507px;
+   // ul
+   .slides{
+      height: 507px;
+      li:nth-child(1){
+      	img{
+      		background-position: 59%;
+      	}
+      	.caption{
+      		top: initial;
+      		bottom: 42px;
+            color: $fontMobile;
+      		h3{
+               font-weight: 100;
+               font-size: 22px;
+               line-height: 27px;
+               font-family: 'gotham_lightregular';
+               strong{
+               	font-family: 'gotham_mediumregular';
+               }
+      		}
+      		h5{
+      			font-family: $roboto;
+                font-size: 15px;
+                font-weight: 300;
+                line-height: 24px;
+                margin-top: 5px;
+      		}
+      	}
+      }
+   }
+}
